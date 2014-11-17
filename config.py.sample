@@ -1,0 +1,4 @@
+CONSUMER_KEY = ‘<Your Consumer Key>’
+CONSUMER_SECRET = ‘<Your Consumer Secret>’
+ACCESS_KEY = ‘<Your Access Token>’
+ACCESS_SECRET = '<Your Access Token Secret>’'
