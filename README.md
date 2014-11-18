@@ -25,3 +25,12 @@ Install tweepy module using install.sh script
 ```bash
 cat config.py.sample > config.py
 ```
+
+## How to use
+
+Execute script with the parameters -u to set user destination (without @) and -m to set message
+```bash
+python tweet_xmas.py -u "CarlosMR1985" -m "Follow me"
+```
+
+
